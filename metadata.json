@@ -1,0 +1,10 @@
+{
+  "name": "PlantPulse AI",
+  "description": "Smart-Home Pflanzenpflege mit KI-Pflanzenerkennung via Gemini API, ESP32-WLAN-Gießsteuerung und Wassertank-Überwachung.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
